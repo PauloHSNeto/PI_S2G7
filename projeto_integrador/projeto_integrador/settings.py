@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'projeto_integrador.registro_de_animal',
+    'registro_de_animal',
 ]
 
 MIDDLEWARE = [
