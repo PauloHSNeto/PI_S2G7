@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'petmedvida'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E5172AC9F2B04B28B5E957F8EC36C27E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C4959DCC4144DC68EA647478321F44D }}
